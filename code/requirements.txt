@@ -1,0 +1,20 @@
+# Required packages for EEG preprocessing pipeline
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+mne>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+scipy>=1.9.0
+
+# Optional but recommended for full functionality
+# Uncomment to install:
+
+# autoreject>=0.4.0  # Automated bad channel/trial detection
+# mne-icalabel>=0.4.0  # Automatic ICA component classification
+# pyprep>=0.4.0  # PREP pipeline for bad channel detection
+
+# Additional useful packages
+# pandas>=1.5.0  # Data manipulation
+# seaborn>=0.12.0  # Statistical visualizations
+# statsmodels>=0.13.0  # Statistical tests
