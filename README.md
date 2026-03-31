@@ -2,7 +2,7 @@
 
 Course project for **Signal Processing and Analysis of Human Brain Potentials (EEG)**  
 Universität Stuttgart | Supervisor: Jun.-Prof. Dr. Benedikt Ehinger  
-Authors: Harish Renganathan, Rithika Byna, Aveen Vas | Due: March 31, 2026
+Authors: Harish Renganathan, Rithika Byna, Aveen Vas 
 
 ---
 
@@ -46,5 +46,4 @@ python code/final_analyses.py            # run analyses + save figures
 python code/update_figures.py            # regenerate report figures only
 ```
 
-Report (`report/eeg_report_final.tex`) is kept local — compile via Overleaf or:
-`pdflatex → biber → pdflatex × 2`
+
